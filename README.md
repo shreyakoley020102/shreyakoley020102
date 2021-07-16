@@ -23,6 +23,7 @@ Technologies I'm familiar with :
 
 <!-- display the social media buttons in your README -->
 
+![alt text][7.1]
 ![alt text][8.1]
 ![alt text][9.1]
 ![alt text][10.1]
@@ -39,6 +40,7 @@ Technologies I'm familiar with :
 
 <!-- icons with padding -->
 
+[7.1]: https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white
 [8.1]:  https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [9.1]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [10.1]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
