@@ -2,11 +2,11 @@
 
 ## I'm Shreya
 
-## Just another robotics/tech nerd here!
+## Just another coder nerd here!
 
-- 🔭 I’m currently working on my B2B, C2B model and a community machine learning project
-- 🌱 I’m currently learning: Google Cloud, Machine Learning and related Statistics 
-- :computer: Currently serving as Student Mentor@Google Cloud, Core Committee@Institution's technical club.
+- 🔭 I’m currently working to improve my skills
+- 🌱 I’m currently learning: Web Development (BAckend)
+- :computer: Just few months back completed my job for being a TA in Coding Ninjas!
 - 🤔 I’m looking for help in Machine Learning, Statistics!
 - 💬 Ask me about Arduino, Rbpi, robotics and OOP 
 - 📫 Have look at my [portfolio]() and you can leave me a message at [here](shreyakoley02@gmail.com) !
