@@ -77,6 +77,6 @@ Connect with me on :
 
 
 
-Nice to meet you all! 
+It was nice meeting you all! 
 
 ![tenor (1)](https://media.giphy.com/media/U1aKUJgwF6UfmPFots/giphy.gif)
