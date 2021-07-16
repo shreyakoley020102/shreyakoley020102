@@ -7,12 +7,12 @@
 - 🔭 I’m currently working to improve my skills
 - 🌱 I’m currently learning: Web Development (BAckend)
 - :computer: Just few months back completed my job for being a TA in Coding Ninjas!
-- 🤔 I’m looking for help in Machine Learning, Statistics!
-- 💬 Ask me about Arduino, Rbpi, robotics and OOP 
+- 🤔 I’m looking for help in Web Development! Seems like I'm trapped
+- 💬 Can have a long conversation on Marvel or Cricket!
 - 📫 Have look at my [portfolio]() and you can leave me a message at [here](shreyakoley02@gmail.com) !
 - 😄 Pronouns: Her
 
-- ⚡ Fun fact: You might catch me ogling at dinosaurs or playing Valorant in my free time!
+- ⚡ Fun fact: You might see me taking breaks often!
 
 Technologies I'm familiar with : 
 
