@@ -16,7 +16,7 @@
 - ⚡ Fun fact: You might see me taking breaks often!
 
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shreyakoley020102&theme=dark)](https://git.io/streak-stats)
 
 
 Technologies I'm familiar with : 
