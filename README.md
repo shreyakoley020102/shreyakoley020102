@@ -23,18 +23,11 @@ Technologies I'm familiar with :
 ![alt text][10.1]
 ![alt text][11.1]
 ![alt text][12.1]
-![alt text][13.1]
 ![alt text][14.1]
-![alt text][15.1]
 ![alt text][16.1]
-![alt text][17.1]
 ![alt text][18.1]
-![alt text][19.1]
-![alt text][20.1]
-![alt text][21.1]
 ![alt text][22.1]
-![alt text][23.1]
-![alt text][24.1]
+
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
