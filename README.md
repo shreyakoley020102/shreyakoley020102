@@ -1,7 +1,6 @@
-# Aloha 👋
+# Helloooo all 👋
 
-![](https://komarev.com/ghpvc/?username=ErzaTitania-2001&label=PROFILE+VISITORS&color=blue&style=flat-square)
-## I'm Ahana, a lucky vGHC'21 Scholar.
+## I'm Shreya
 
 ## Just another robotics/tech nerd here!
 
@@ -10,7 +9,7 @@
 - :computer: Currently serving as Student Mentor@Google Cloud, Core Committee@Institution's technical club.
 - 🤔 I’m looking for help in Machine Learning, Statistics!
 - 💬 Ask me about Arduino, Rbpi, robotics and OOP 
-- 📫 Have look at my [portfolio](https://ahana-pal-portfolio.netlify.app) and you can leave me a message at [here](https://email-feedback.netlify.app/) !
+- 📫 Have look at my [portfolio]() and you can leave me a message at [here](shreyakoley02@gmail.com) !
 - 😄 Pronouns: Her
 
 - ⚡ Fun fact: You might catch me ogling at dinosaurs or playing Valorant in my free time!
