@@ -15,6 +15,10 @@
 
 - ⚡ Fun fact: You might see me taking breaks often!
 
+
+<img src="https://camo.githubusercontent.com/51c312561ebb05e2a2f0d8b1ccf39f08d2772ed3eed5bff27dd252599e329b27/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d61797573686d616e6b756d617237" alt="Github Steak" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user="shreyakoley020102"style="max-width:100%;">
+
+
 Technologies I'm familiar with : 
 
 <!-- display the social media buttons in your README -->
