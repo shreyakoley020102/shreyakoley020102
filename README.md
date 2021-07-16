@@ -5,7 +5,7 @@
 ## Just another coder nerd here!
 
 - 🔭 I’m currently working to improve my skills
-- 🌱 I’m currently learning: Web Development (BAckend)
+- 🌱 I’m currently learning: Web Development (Backend)
 - :computer: Just few months back completed my job for being a TA in Coding Ninjas!
 - 🤔 I’m looking for help in Web Development! Seems like I'm trapped
 - 💬 Can have a long conversation on Marvel or Cricket!
@@ -82,4 +82,4 @@ Connect with me on :
 
 Nice to meet you all! 
 
-![tenor (1)](https://user-images.githubusercontent.com/59911272/121473014-a6e75300-c9df-11eb-8007-2f3d216f47af.gif)
+![tenor (1)](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
