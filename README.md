@@ -9,7 +9,7 @@
 - :computer: Just few months back completed my job for being a TA in Coding Ninjas!
 - 🤔 I’m looking for help in Web Development! Seems like I'm trapped
 - 💬 Can have a long conversation on Marvel or Cricket!
-- 📫 Have look at my [portfolio](https://shreyakoley020102.github.io/Know-Me/) and you can leave me a message at [here](shreyakoley02@gmail.com) !
+- 📫 Have look at my [portfolio](https://shreyakoley020102.github.io/Know-Me/) and you can leave me a message at [here](href="mailto:shreyakoley02@gmail.com") !
 - 😄 Pronouns: Her
 
 - ⚡ Fun fact: You might see me taking breaks often!
