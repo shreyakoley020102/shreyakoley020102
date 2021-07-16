@@ -60,11 +60,7 @@ Connect with me on :
 <!-- display the social media buttons in your README -->
 
 [![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
 [![alt text][5.1]][5]
-[![alt text][6.1]][6]
 [![alt text][7.1]][7]
 
 <!-- links to social media icons -->
@@ -73,22 +69,14 @@ Connect with me on :
 <!-- icons with padding -->
 
 [1.1]:  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[2.1]: https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
-[3.1]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-[4.1]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 [5.1]: https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
-[6.1]: https://img.shields.io/badge/Qwiklabs-Google--Cloud-red
 [7.1]: https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
-[1]: https://www.linkedin.com/in/ahana-pal-5852771b2/
-[2]: https://discord.com/users/625172911212462091/
-[3]: https://www.instagram.com/ahoyahana/
-[4]: https://twitter.com/Toothpi56823329
-[5]: https://www.facebook.com/ahana.pal.710
-[6]: https://www.qwiklabs.com/public_profiles/427132e0-e5f7-47b7-ae31-9d0a9071e5e7
-[7]: https://www.hackerrank.com/lohoripal2001 
+[1]: https://www.linkedin.com/in/shreya-koley-5b97a61b1/
+[5]: https://www.facebook.com/shreya.koley.7161
+[7]: https://www.hackerrank.com/shreyakoley0201?hr_r=1 
 
 
 
