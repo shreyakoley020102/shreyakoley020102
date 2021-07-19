@@ -34,6 +34,7 @@ Technologies I'm familiar with :
 ![alt text][18.1]
 ![alt text][22.1]
 ![alt text][99.1]
+![alt text][66.1]
 
 
 <!-- links to social media icons -->
@@ -52,6 +53,7 @@ Technologies I'm familiar with :
 [18.1]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [22.1]: https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white
 [99.1]: https://img.shields.io/badge/Sass-FF69B4?style=for-the-badge&logo=sass&logoColor=white
+[66.1]: https://img.shields.io/badge/Atom-3CB371?style=for-the-badge&logo=atom&logoColor=white
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shreyakoley020102)
