@@ -19,6 +19,10 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shreyakoley020102&theme=dark)](https://git.io/streak-stats)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyakoley020102&theme=dark)](https://github.com/shreyakoley020102/github-readme-stats)
+
+
+
 Technologies I'm familiar with : 
 
 <!-- display the social media buttons in your README -->
