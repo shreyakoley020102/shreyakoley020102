@@ -5,7 +5,7 @@
 
 ## Just another coder nerd here!
 
-- 🔭 I’m currently working to improve my skills
+- 🔭 I’m currently focusing on how improve my skills
 - 🌱 I’m currently learning: Web Development (Backend)
 - :computer: Just few months back,I completed my internship as a TA at Coding Ninjas!
 - 🤔 I’m looking for help in Web Development! Seems like it's endless
@@ -13,7 +13,7 @@
 - 📫 Have look at my [portfolio](https://shreyakoley020102.github.io/Know-Me/) and can contact me from there!
 - 😄 Pronouns: Her
 
-- ⚡ Fun fact: You might see me taking breaks often!
+<!-- - ⚡ Fun fact: ! -->
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shreyakoley020102&theme=dark)](https://git.io/streak-stats)
