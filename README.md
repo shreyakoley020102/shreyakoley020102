@@ -5,7 +5,7 @@
 
 ## Just another coder nerd here!
 
-- 🔭 I’m currently focusing on how improve my skills
+- 🔭 I’m currently focusing on how to improve my skills
 - 🌱 I’m currently learning: Web Development (Backend)
 - :computer: Just few months back,I completed my internship as a TA at Coding Ninjas!
 - 🤔 I’m looking for help in Web Development! Seems like it's endless
