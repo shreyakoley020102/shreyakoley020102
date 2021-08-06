@@ -62,7 +62,7 @@ Technologies I'm familiar with :
 [33.1]: https://img.shields.io/badge/Bootstrap-0095D5?style=for-the-badge&logo=bootstrap&logoColor=white
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=shreyakoley020102)
+![Github stats](https://github-readme-stats.vercel.app/api?username=shreyakoley020102&theme=dark)
 
 
 Connect with me on : 
