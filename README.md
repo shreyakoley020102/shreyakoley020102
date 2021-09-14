@@ -10,7 +10,7 @@
 - :computer: Just few months back,I completed my internship as a TA at Coding Ninjas!
 - 🤔 I’m looking for help in Web Development! Seems like it's endless
 - 💬 Can have a long conversation on Marvel or Cricket! (PS: Do not recommend me any series of any genre)
-- 📫 Have look at my [portfolio](https://shreyakoley020102.github.io/Know-Me/) and can contact me from there!
+- 📫 Have look at my [portfolio](https://shreyakoley020102.github.io/Know-Me/) and contact me from there!
 - 😄 Pronouns: Her
 - 😕 You can find me, craving for ice creams or staring at memes(mostly being explained)
 
