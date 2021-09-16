@@ -63,6 +63,9 @@ Technologies I'm familiar with :
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shreyakoley020102&theme=tokyonight&title_color=fff)
+[![Shreya's github activity graph](https://activity-graph.herokuapp.com/graph?username=shreyakoley020102&theme=xcode)](https://github.com/shreyakoley020102/github-readme-activity-graph)
+
+
 
 
 Connect with me on : 
