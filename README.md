@@ -19,10 +19,11 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shreyakoley020102&theme=dark)
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=shreyakoley020102&theme=tokyonight&title_color=fff)
+
 
 <!-- - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyakoley020102&theme=dark)](https://github.com/shreyakoley020102/github-readme-stats) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyakoley020102&hide=html&show_icons=true&theme=tokyonight&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 Technologies I'm familiar with : 
 
@@ -63,7 +64,9 @@ Technologies I'm familiar with :
 [33.1]: https://img.shields.io/badge/Bootstrap-0095D5?style=for-the-badge&logo=bootstrap&logoColor=white
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=shreyakoley020102&theme=tokyonight&title_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyakoley020102&hide=html&show_icons=true&theme=tokyonight&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+
 [![Shreya's github activity graph](https://activity-graph.herokuapp.com/graph?username=shreyakoley020102&theme=xcode)](https://github.com/shreyakoley020102/github-readme-activity-graph)
 
 
