@@ -17,7 +17,8 @@
 
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shreyakoley020102&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shreyakoley020102&theme=dark)](https://git.io/streak-stats)
+
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shreyakoley020102&theme=tokyonight&title_color=fff)
 
