@@ -67,12 +67,7 @@ Technologies I'm familiar with :
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyakoley020102&hide=html&show_icons=true&theme=tokyonight&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-
-[![Shreya's github activity graph](https://activity-graph.herokuapp.com/graph?username=shreyakoley020102&theme=xcode)](https://github.com/shreyakoley020102/github-readme-activity-graph)
-
-
-
-
+[![Shreya's github activity graph](https://activity-graph.herokuapp.com/graph?username=shreyakoley020102&custom_title=Shreya%20Koley's%20Contibution%20Graph&hide_border=true&theme=xcode)](https://github.com/shreyakoley020102/github-readme-activity-graph)
 
 Connect with me on : 
 <!-- display the social media buttons in your README -->
