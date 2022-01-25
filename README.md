@@ -12,7 +12,7 @@
 - 💬 Can have a long conversation on Marvel or Cricket! (PS: Do not recommend me any series of any genre)
 - 🐦 How to reach me? tie a letter to a pigeon
 - 🧐 Have a look at my [portfolio](https://shreyakoley020102.github.io/Know-Me/) and contact me from there!
-- 😄 Pronouns: Her
+- 👩 Pronouns: Her
 - 😕 Often I am spotted, craving for ice creams or staring at memes(mostly being explained)
 
 
@@ -69,7 +69,7 @@ Technologies I'm familiar with :
 
 [![Shreya's github activity graph](https://activity-graph.herokuapp.com/graph?username=shreyakoley020102&custom_title=Shreya%20Koley's%20Contibution%20Graph&hide_border=true&theme=xcode)](https://github.com/shreyakoley020102/github-readme-activity-graph)
 
-Connect with me on : 
+Okay okay! No need of finding a pigeon, let me make it easier for you 😄 Connect with me on : 
 <!-- display the social media buttons in your README -->
 
 [![alt text][1.1]][1]
