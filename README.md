@@ -8,7 +8,7 @@
 <!-- - 🔭 I’m currently focusing on how to improve my skills
 - 🌱 I’m currently learning: Web Development (Backend)
 - :computer: Just few months back, I completed my internship as a TA at Coding Ninjas!
-- 😕 Often I am spotted, craving for ice creams or staring at memes(mostly being explained)
+- 😕 Often I am spotted, applauding underrated South Indian films (and boasting about them) or craving for ice creams or staring at memes(mostly being explained)
 -->
 
 - 🔍 Searching for peace
@@ -16,7 +16,8 @@
 - 💬 Can have a long conversation on Marvel or Cricket! (PS: Do not recommend me any series of any genre)
 - 🐦 How to reach me? tie a letter to a pigeon
 - 🧐 Have a look at my [portfolio](https://shreyakoley020102.github.io/Know-Me/) and contact me from there!
-- 🙏 Fun fact: I don't like dogs (specially Shampoo)
+- 🙏 Not so fun fact: I don't like dogs (specially Shampoo)
+- 😕 Often I am spotted, applauding underrated South Indian films (and boasting about them) or craving for ice creams or staring at memes (mostly being explained)
 
 
 
@@ -70,7 +71,9 @@ Technologies I'm familiar with :
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyakoley020102&hide=html&show_icons=true&theme=tokyonight&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
+<!--
 [![Shreya's github activity graph](https://activity-graph.herokuapp.com/graph?username=shreyakoley020102&custom_title=Shreya%20Koley's%20Contibution%20Graph&hide_border=true&theme=xcode)](https://github.com/shreyakoley020102/github-readme-activity-graph)
+-->
 
 Okay okay! No need of finding a pigeon, let me make it easier for you 😄 Connect with me on : 
 <!-- display the social media buttons in your README -->
